@@ -1,6 +1,6 @@
 # Hello! I'm Kira
 
-I've been writing software since 2016, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. I work on open source software full time and pay my bills with money from grants, GitHub sponsors, and contract work. If you find my work valuable please consider supporting it through [GitHub Sponsors](https://github.com/sponsors/kiramclean) or reach out to me about working together! 
+I've been writing software since 2016, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. I work on open source software full time and pay my bills with money from open source grants, GitHub sponsors, and contract work. If you find my work valuable please consider supporting it through [GitHub Sponsors](https://github.com/sponsors/kiramclean) or reach out to me about working together! 
 
 I thrive in environments that champion open-source innovation, value community engagement, and are dedicated to solving complex problems with elegant, sustainable solutions. There are lots of things I can probably help you with:
 
