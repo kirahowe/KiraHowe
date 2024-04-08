@@ -1,6 +1,6 @@
 # Hello! I'm Kira
 
-I've been writing software since 2016, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. I work on open source software full time and pay my bills with money from grants, GitHub sponsors, and contract work. If you find my work valuable please consider supporting it through [GitHub Sponsors](https://github.com/sponsors/kiramclean) or reach out to me about working together!
+I've been writing software since 2016, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. I work on open source software full time and pay my bills with money from grants, GitHub sponsors, and contract work. If you find my work valuable please consider supporting it through [GitHub Sponsors](https://github.com/sponsors/kiramclean) or reach out to me about working together! 
 
 I thrive in environments that champion open-source innovation, value community engagement, and are dedicated to solving complex problems with elegant, sustainable solutions. There are lots of things I can probably help you with:
 
@@ -16,6 +16,8 @@ My main projects right now:
 - [ggclj](https://github.com/kiramclean/ggclj) - Implementing the grammar of graphics in Clojure
 - [Clojure Data Cookbook](https://github.com/scicloj/clojure-data-cookbook) - Creating a canonical resource on how to use Clojure's default data science stack
 - [Clojure Tidy Tuesdays](https://github.com/kiramclean/clojure-tidy-tuesdays/) - Beginner-level tutorials on how to use Clojure to accomplish basic data science tasks
+
+You can read all about my adventures in coding (mostly with Clojure) on my [programming blog](https://codewithkira.com/).
 
 • • • • •
 
