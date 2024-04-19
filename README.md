@@ -14,7 +14,7 @@ I thrive in environments that champion open-source innovation, value community e
 
 My main projects right now:
 - [ggclj](https://github.com/kiramclean/ggclj) - Implementing the grammar of graphics in Clojure
-- [Clojure Data Cookbook](https://github.com/scicloj/clojure-data-cookbook) - Creating a canonical resource on how to use Clojure's default data science stack
+- [Clojure Data Cookbook](https://github.com/scicloj/clojure-data-cookbook) - Creating a canonical resource on how to use Clojure's default data science stack, spawning many side quests in making that default stack production-ready along the way
 - [Clojure Tidy Tuesdays](https://github.com/kiramclean/clojure-tidy-tuesdays/) - Beginner-level tutorials on how to use Clojure to accomplish basic data science tasks
 
 You can read all about my adventures in coding (mostly with Clojure) on my [programming blog](https://codewithkira.com/).
