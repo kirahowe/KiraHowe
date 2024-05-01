@@ -22,6 +22,7 @@ You can read all about my adventures in coding (mostly with Clojure) on my [prog
 • • • • •
 
 Selected talks:
+- [Clojure for Data Deep Dive (London Clojurians 2024)](https://www.youtube.com/watch?v=eUFf3-og_-Y)
 - [Clojure for Data Science in the Real World (Conj 2023)](https://www.youtube.com/watch?v=MguatDl5u2Q)
 - [Using Clojure for more than software development (re:Clojure 2022)](https://www.youtube.com/watch?v=BxVtQM6FPHU)
 - [Visualizing Data with Hanami (re:Clojure 2021)](https://www.youtube.com/watch?v=C3kwcAJWJmE)
