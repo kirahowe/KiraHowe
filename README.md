@@ -1,16 +1,12 @@
 # Hello! I'm Kira
 
-I've been writing software since 2016, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. I work on open source software full time and pay my bills with money from open source grants, GitHub sponsors, and contract work. If you find my work valuable please consider supporting it through [GitHub Sponsors](https://github.com/sponsors/kiramclean) or reach out to me about working together! You can find [updates about my adventures in open source on my website](https://codewithkira.com/tags/oss-updates.html). My overarching goal is to steward the Clojure data science ecosystem into a state of stability and flourishing. A high-level roadmap tracking progress toward this end is [available here](https://github.com/users/kiramclean/projects/4/).
+# Hello! I'm Kira
 
-I thrive in environments that champion open-source innovation, value community engagement, and are dedicated to solving complex problems with elegant, sustainable solutions. There are lots of things I can probably help you with:
+I've been writing software since 2016, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. My overarching goal is to steward the Clojure data science ecosystem into a state of stability and flourishing. A high-level roadmap tracking progress toward this end is available [on this project board](https://github.com/users/kiramclean/projects/4/).
 
-- Do you have a ginormous code base that nobody can make sense of? I can help you organize it.
-- Do you have stakeholders coming at you from every direction asking for different things? I can help you communicate with them to make a plan to actually build something.
-- Do you have piles of data you want to get answers from? I can help you find them.
-- Do you have a disproportionate number of early-career developers on your team you need to level up quickly? I can teach them.
-- Do you want to build a culture of open collaboration and engage the global open source developer community but aren't sure where to start? I can help you transform your development processes.
+If I could afford to work on open source full time I would, but I currently work full time for BroadPeak and spend whatever free time I can working on projects that benefit the Clojure community. If you find my work valuable please consider supporting me, either with a donation here or by sharing it with someone you know! You can find [updates about my open source work on my website](https://codewithkira.com/tags/oss-updates.html). 
 
-• • • • •
+• • • • 
 
 My main projects right now:
 - [ggclj](https://github.com/kiramclean/ggclj) - Implementing the grammar of graphics in Clojure
@@ -29,4 +25,17 @@ Selected talks:
 
 • • • • •
 
-How to reach me: [LinkedIn](https://www.linkedin.com/in/kiramclean/), [Mastodon](https://indieweb.social/@kira), or [email](mailto:contact@kiramclean.com)
+I thrive in environments that champion open-source innovation, value community engagement, and are dedicated to solving complex problems with elegant, sustainable solutions. There are lots of things I typically help companies with:
+
+- Do you have a ginormous code base that nobody can make sense of? I can help you organize it.
+- Do you have stakeholders coming at you from every direction asking for different things? I can help you communicate with them to make a plan to actually build something.
+- Do you have piles of data you want to get answers from? I can help you find them.
+- Do you have a disproportionate number of early-career developers on your team you need to level up quickly? I can teach them.
+- Do you want to build a culture of open collaboration and engage the global open source developer community but aren't sure where to start? I can help you transform your development processes.
+
+I'm not currently seeking new opportunities but always love to meet other people working on interesting problems.
+
+• • • • •
+
+How to reach me: [LinkedIn](https://www.linkedin.com/in/kirahowe/), [Mastodon](https://indieweb.social/@kira), [Bluesky](https://bsky.app/profile/kirahowe.bsky.social) or [email](mailto:contact@kirahowe.com)
+
