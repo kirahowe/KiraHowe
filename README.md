@@ -35,5 +35,5 @@ I'm not currently seeking new opportunities but always love to meet other people
 
 • • • • •
 
-How to reach me: [LinkedIn](https://www.linkedin.com/in/kirahowe/), [Mastodon](https://indieweb.social/@kira), [Bluesky](https://bsky.app/profile/kirahowe.bsky.social) or [email](mailto:contact@kirahowe.com)
+How to reach me: [LinkedIn](https://www.linkedin.com/in/kirahowe/), [Mastodon](https://indieweb.social/@kira), [Bluesky](https://bsky.app/profile/kirahowe.com) or [email](mailto:contact@kirahowe.com)
 
