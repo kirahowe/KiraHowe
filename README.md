@@ -1,6 +1,6 @@
 # Hello! I'm Kira
 
-I've been writing software since 2016, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. My overarching goal is to steward the Clojure data science ecosystem into a state of stability and flourishing. A high-level roadmap tracking progress toward this end is available [on this project board](https://github.com/users/kiramclean/projects/4/).
+I've been writing software since 2015, experienced in full stack web development with a more recent focus on data processing and visualization tools. I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem. My overarching goal is to steward the Clojure data science ecosystem into a state of stability and flourishing. A high-level roadmap tracking progress toward this end is available [on this project board](https://github.com/users/kiramclean/projects/4/).
 
 If I could afford to work on open source full time I would, but I currently work full time for BroadPeak and spend whatever free time I can working on projects that benefit the Clojure community. If you find my work valuable please consider supporting me, either with a donation here or by sharing it with someone you know! You can find [updates about my open source work on my website](https://codewithkira.com/tags/oss-updates.html). 
 
