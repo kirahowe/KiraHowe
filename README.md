@@ -2,7 +2,7 @@
 
 I've been writing software since 2015, experienced in full stack web development with a more recent focus on data processing and visualization tools. I build full stack web apps and developer tooling in Clojure. I care about making software simple, durable, and enjoyable to operate and maintain.
 
-I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem and contribute libraries and tools that makes building with Clojure's toolkit easier.
+I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem and contribute libraries and systems with a goal of making it easier to build with Clojure's toolkit.
 
 If I could afford to work on open source full time I would, but I currently work full time for Seeq and spend whatever free time I can working on open source. If you find my work valuable please consider supporting me, either with a donation here or by sharing it with someone you know! You can find [updates about my open source work on my website](https://codewithkira.com/tags/oss-updates.html). 
 
@@ -14,7 +14,7 @@ My main projects right now:
 
 - [reader](https://github.com/kirahowe/reader) -- live at [themiscellany.app](https://themiscellany.app) -- A distraction-free reading queue that unifies articles, research papers, and newsletters into one place and organizes your reading list for you. Articles are tagged automatically and surfaced based your individual reading patterns.
 
-- [hosted-clay](https://github.com/kirahowe/hosted-clay) -- A hosted platform for [Clay](https://scicloj.github.io/clay/) notebooks, one of Sciclojs' live programming libraries. Each notebook runs in its own isolated Fly.io Sprite with a browser-based IDE (code-server + Calva) beside live-rendered output, while a Clojure control plane handles authentication, a warm-VM pool, notebook lifecycle, and a WebSocket-relaying reverse proxy.
+- [hosted-clay](https://github.com/kirahowe/hosted-clay) -- A hosted platform for [Clay](https://scicloj.github.io/clay/) notebooks, one of Scicloj's live programming libraries. Each notebook runs in its own isolated Fly.io Sprite with a browser-based IDE (code-server + Calva) beside live-rendered output, while a Clojure control plane handles authentication, a warm-VM pool, notebook lifecycle, and a WebSocket-relaying reverse proxy.
 
 - [finances](https://github.com/kirahowe/finances) -- A personal finance app that aggregates transactions across institutions via Plaid and Lunchflow, stored in an embedded Datalevin database. Uses Datastar to implement a server-authoritative hypermedia architecture with small TypeScript "islands" for latency-sensitive interactions like keyboard grid navigation and undoable edits.
 
