@@ -1,24 +1,25 @@
 # Hello! I'm Kira
 
-I've been writing software since 2015, experienced in full stack web development with a more recent focus on data processing and visualization tools. I build full stack web apps and developer tooling in Clojure. I care about making software simple, durable, and enjoyable to operate and maintain.
+I've been writing software since 2015, experienced in full stack web development with a more recent focus on data processing and visualization tools. I build full stack web apps and developer tooling. Clojure is my language of choice. I care about making software simple, durable, and enjoyable to operate and maintain.
 
 I also write easy-to-understand technical guides and tutorials for Clojure's data science ecosystem and contribute libraries and systems with a goal of making it easier to build with Clojure's toolkit.
 
-If I could afford to work on open source full time I would, but I currently work full time for Seeq and spend whatever free time I can working on open source. If you find my work valuable please consider supporting me, either with a donation here or by sharing it with someone you know! You can find [updates about my open source work on my website](https://codewithkira.com/tags/oss-updates.html). 
+If I could afford to work on open source full time I would, but I currently work full time for Seeq and spend whatever free time I can working on open source. If you find my work valuable please consider supporting me, either with a donation here or by sharing it with someone you know! You can find [updates about my open source work on my website](https://kirahowe.com). 
 
 • • • • 
 
 My main projects right now:
 
-- [clef](https://github.com/kirahowe/clef) -- An opinionated, batteries-included, full-stack web framework for Clojure. One command (`clef new myapp`) scaffolds a complete, deployable app with my recommended stack: HTTP routing with Reitit, component lifecycle management with Integrant, layered per-env EDN configuration, structured logging, and a full CI/CD and deployment pipeline using Docker, Fly.io, and GitHub Actions wired up out of the box. Distributed as a single self-contained Babashka script via Homebrew.
+ - [claimgraph](https://github.com/kirahowe/claimgraph) -- an attempt to build an agent memory system that actually works
+ - [compositor](https://github.com/kirahowe/compositor/) -- an attempt at a developer experience tool that works with the way I develop UIs now in this age of AI
+ - [hosted-clay](https://github.com/kirahowe/hosted-clay/) -- an experimental platform that gives users a hosted clay notebook to play with, hoping it will inspire more people to check out Clojure's awesome data science stack
+ - [this very website!](https://github.com/kirahowe/website) -- the link blog I always wanted but never had time to build
+ - [clef](https://github.com/kirahowe/clef) -- all of my strongest opinions about how to build a good web app in Clojure, codified into a little helpful CLI
+ - [finances](https://github.com/kirahowe/finances) -- a personal finance app that works the way I want
+ - [reader](https://github.com/kirahowe/reader) -- an attempt to build a reading curation system that doesn't become just another overwhelming pile of unread articles
 
-- [reader](https://github.com/kirahowe/reader) -- live at [themiscellany.app](https://themiscellany.app) -- A distraction-free reading queue that unifies articles, research papers, and newsletters into one place and organizes your reading list for you. Articles are tagged automatically and surfaced based your individual reading patterns.
 
-- [hosted-clay](https://github.com/kirahowe/hosted-clay) -- A hosted platform for [Clay](https://scicloj.github.io/clay/) notebooks, one of Scicloj's live programming libraries. Each notebook runs in its own isolated Fly.io Sprite with a browser-based IDE (code-server + Calva) beside live-rendered output, while a Clojure control plane handles authentication, a warm-VM pool, notebook lifecycle, and a WebSocket-relaying reverse proxy.
-
-- [finances](https://github.com/kirahowe/finances) -- A personal finance app that aggregates transactions across institutions via Plaid and Lunchflow, stored in an embedded Datalevin database. Uses Datastar to implement a server-authoritative hypermedia architecture with small TypeScript "islands" for latency-sensitive interactions like keyboard grid navigation and undoable edits.
-
-You can read all about my adventures in coding (mostly with Clojure) on my [programming blog](https://codewithkira.com/).
+You can read all about my adventures in coding (mostly with Clojure) on my [blog](https://kirahowe.com)
 
 • • • • •
 
