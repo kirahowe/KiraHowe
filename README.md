@@ -13,7 +13,7 @@ My main projects right now:
  - [claimgraph](https://github.com/kirahowe/claimgraph) -- an attempt to build an agent memory system that actually works
  - [compositor](https://github.com/kirahowe/compositor/) -- an attempt at a developer experience tool that works with the way I develop UIs now in this age of AI
  - [hosted-clay](https://github.com/kirahowe/hosted-clay/) -- an experimental platform that gives users a hosted clay notebook to play with, hoping it will inspire more people to check out Clojure's awesome data science stack
- - [this very website!](https://github.com/kirahowe/website) -- the link blog I always wanted but never had time to build
+ - [my website](https://github.com/kirahowe/website) -- the link blog I always wanted but never had time to build
  - [clef](https://github.com/kirahowe/clef) -- all of my strongest opinions about how to build a good web app in Clojure, codified into a little helpful CLI
  - [finances](https://github.com/kirahowe/finances) -- a personal finance app that works the way I want
  - [reader](https://github.com/kirahowe/reader) -- an attempt to build a reading curation system that doesn't become just another overwhelming pile of unread articles
