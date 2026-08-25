@@ -9,7 +9,8 @@ If I could afford to work on open source full time I would, but I currently work
 • • • • 
 
 My main projects right now:
-
+ - [secrets](https://github.com/kirahowe/secrets/) -- a little library for managing secrets in your Clojure projects
+ - [clj-llm](https://github.com/kirahowe/clj-llm/) -- a library for integrating LLMs into your Clojure projects
  - [claimgraph](https://github.com/kirahowe/claimgraph) -- an attempt to build an agent memory system that actually works
  - [compositor](https://github.com/kirahowe/compositor/) -- an attempt at a developer experience tool that works with the way I develop UIs now in this age of AI
  - [hosted-clay](https://github.com/kirahowe/hosted-clay/) -- an experimental platform that gives users a hosted clay notebook to play with, hoping it will inspire more people to check out Clojure's awesome data science stack
