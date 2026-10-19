@@ -9,6 +9,8 @@ If I could afford to work on open source full time I would, but I currently work
 • • • • 
 
 My main projects right now:
+ - [volley](https://github.com/kirahowe/volley/) -- a fast, delightful test runner for babashka and JVM Clojure
+ - [slk](https://github.com/kirahowe/slk/) -- a fork of a slack TUI that I am relentlessly customizing
  - [secrets](https://github.com/kirahowe/secrets/) -- a little library for managing secrets in your Clojure projects
  - [clj-llm](https://github.com/kirahowe/clj-llm/) -- a library for integrating LLMs into your Clojure projects
  - [claimgraph](https://github.com/kirahowe/claimgraph) -- an attempt to build an agent memory system that actually works
